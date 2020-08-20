@@ -1,0 +1,4 @@
+corpora/*
+taggers/*
+tokenizers/*
+.ipynb_checkpoints/
